@@ -1,3 +1,5 @@
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ5MnYzbDhyMW51ZGVkMWx4NmI3eHR6ZzVyaG1jbXF2bWRraGRhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZEUODEtQiUZWGg6IHR/giphy.gif" width="100"/>
 
@@ -7,6 +9,20 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=s-parker66&style=flat-square&color=blue" alt=""/>
+
+</div>
+
+<div id="header" align="center">
+  
+  # Hello :wave:
+</div>
+
+
+
+
+
+
+
 <!--
 **s-parker66/s-parker66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
