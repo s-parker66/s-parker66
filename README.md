@@ -17,10 +17,29 @@
   # Hello :wave:
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif" width="600" height="300"/>
+</div>
 
+---
 
+### :man_technologist: About Me :
 
+- :telescope: I’m an entry level Software Engineer and looking to Develop my skills within the Tech Industry.
 
+- :seedling: I'm currently learning how to code with Python through a bootcamp.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stacy-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 
 <!--
