@@ -25,11 +25,11 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m an entry level Software Engineer and looking to Develop my skills within the Tech Industry.
+- :telescope: I’m an entry level Software Engineer and looking to develop my skills and gain a career within the Tech Industry.
 
-- :seedling: I'm currently learning how to code with Python through a bootcamp.
+- :seedling: I'm currently learning how to code with Python through a Software Engineering Bootcamp.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stacy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stacy-parker-9b123982/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stacy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stacy-parker-9b123982/)
 
 ---
 
